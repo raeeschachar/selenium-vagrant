@@ -3,7 +3,7 @@ Vagrant configuration base on ubuntu/trusty64, ready to be used with Selenium.
 
 ## Introduction
 
-Selenium allows you to automate tests in Web Browsers. To do so, you need to have selenium webdriver installed for all the browsers that you want to run your test into.
+Selenium allows you to automate tests in Web Browsers. To do so, you need to have selenium webdriver installed for all the browsers that you want to run your test on.
 
 ## Installation
 

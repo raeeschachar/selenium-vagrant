@@ -32,7 +32,7 @@ sudo apt-get install python-setuptools python-dev build-essential -y
 sudo easy_install pip 
 
 #=========================================================
-echo -n "Install Firefox v46"
+echo -n "Install Firefox v45.0.2"
 #=========================================================
 sudo apt-get remove firefox
 wget https://sourceforge.net/projects/ubuntuzilla/files/mozilla/apt/pool/main/f/firefox-mozilla-build/firefox-mozilla-build_45.0.2-0ubuntu1_amd64.deb
